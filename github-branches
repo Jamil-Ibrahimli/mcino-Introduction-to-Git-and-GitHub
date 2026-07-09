@@ -1,0 +1,8 @@
+﻿git branch -a -v
+  bug-fix-typo                75331c7 Fix typo in README
+* main                        cafcbc1 Add pull request verification output
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo 75331c7 Fix typo in README
+  remotes/origin/main         cafcbc1 Add pull request verification output
+  remotes/upstream/HEAD       -> upstream/main
+  remotes/upstream/main       ad95b0a Create close_pr.yml
